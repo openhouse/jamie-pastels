@@ -1,6 +1,6 @@
 {
   "name": "jamie-pastels",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "49 colors of fun: Jamie's oil pastels in LESS and JS",
   "main": "index.html",
   "scripts": {

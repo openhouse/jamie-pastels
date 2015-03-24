@@ -5,6 +5,57 @@
 
 var jamiePastels = [];
 
+jamiePastels['jp-white'] = [];              
+jamiePastels['jp-pale-orange'] = [];        
+jamiePastels['jp-lemon-yellow'] = [];       
+jamiePastels['jp-naples-yellow'] = [];      
+jamiePastels['jp-pale-green'] = [];         
+jamiePastels['jp-yellow'] = [];             
+jamiePastels['jp-chrome-yellow'] = [];      
+jamiePastels['jp-pale-orange-2'] = [];      
+jamiePastels['jp-pale-brown'] = [];         
+jamiePastels['jp-yellow-orange'] = [];      
+jamiePastels['jp-pink'] = [];               
+jamiePastels['jp-yellow-ochre'] = [];       
+jamiePastels['jp-salmon-pink'] = [];        
+jamiePastels['jp-classic-rose'] = [];       
+jamiePastels['jp-pale-blue'] = [];          
+jamiePastels['jp-gray-2'] = [];             
+jamiePastels['jp-pale-vermillion'] = [];    
+jamiePastels['jp-yellow-gray'] = [];        
+jamiePastels['jp-yellow-green'] = [];       
+jamiePastels['jp-gray'] = [];               
+jamiePastels['jp-okre'] = [];               
+jamiePastels['jp-orange'] = [];             
+jamiePastels['jp-green'] = [];              
+jamiePastels['jp-blue'] = [];               
+jamiePastels['jp-olive-green'] = [];        
+jamiePastels['jp-hyacinth-violet'] = [];    
+jamiePastels['jp-green-gray'] = [];         
+jamiePastels['jp-crimson-lake'] = [];       
+jamiePastels['jp-vermillion'] = [];         
+jamiePastels['jp-blue-green'] = [];         
+jamiePastels['jp-deep-gray'] = [];          
+jamiePastels['jp-rose-madder'] = [];        
+jamiePastels['jp-ultramarine-light'] = [];  
+jamiePastels['jp-scarlet'] = [];            
+jamiePastels['jp-red'] = [];                
+jamiePastels['jp-brown'] = [];              
+jamiePastels['jp-cobalt-blue'] = [];        
+jamiePastels['jp-purple'] = [];             
+jamiePastels['jp-dark-gray'] = [];          
+jamiePastels['jp-vandyke-brown'] = [];      
+jamiePastels['jp-indian-red'] = [];         
+jamiePastels['jp-violet'] = [];             
+jamiePastels['jp-deep-green'] = [];         
+jamiePastels['jp-ultramarine'] = [];        
+jamiePastels['jp-prussian-blue-light'] = [];
+jamiePastels['jp-prussian-blue'] = [];      
+jamiePastels['jp-dark-carmine'] = [];       
+jamiePastels['jp-dark-green'] = [];         
+jamiePastels['jp-black'] = [];              
+
+
 jamiePastels['jp-white']['hex'] =              '#eeefec';
 jamiePastels['jp-pale-orange']['hex'] =        '#fce1d1';
 jamiePastels['jp-lemon-yellow']['hex'] =       '#f7ec86';
