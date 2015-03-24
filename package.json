@@ -1,7 +1,7 @@
 {
   "name": "jamie-pastels",
-  "version": "0.0.1",
-  "description": "49 colors of fun",
+  "version": "0.0.2",
+  "description": "49 colors of fun: Jamie's oil pastels in LESS and JS",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
